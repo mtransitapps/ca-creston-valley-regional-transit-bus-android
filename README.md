@@ -3,11 +3,9 @@
 
 <img width="25%" height="25%" src="app-android/src/main/play/listings/en-US/graphics/icon/1.png"/>
 
-## Join the Private Beta
+## Download on the Play Store
 
-[Join the Private Beta](https://play.google.com/apps/testing/org.mtransit.android.ca_creston_valley_transit_bus)
-
-Learn more about the [private beta program](https://github.com/mtransitapps/mtransit-for-android/wiki/Beta).
+<a href="https://play.google.com/store/apps/details?id=org.mtransit.android.ca_creston_valley_transit_bus"><img width="25%" height="25%" alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"/></a>
 
 ## Screenshots
 
